@@ -1,12 +1,16 @@
 # Ruslan Dzhafarov
----
+
 ## Contacts:
 - **Email**: djafar678@mail.ru
 - [Facebook](https://www.facebook.com/ruslan.dzhafarov.714)
 - [GitHub](https://github.com/DzhafarOFF)
+
+
 ---
+
+
 ## Summary:
-Novice frontend-developer with technical education. Confident knowledge HTML, CSS(Less, Scss), JavaScript.
+I am novice frontend-developer with technical education. I have confident knowledge of HTML, CSS(Less, Scss), JavaScript.
 
 ---
 ## Skills
@@ -29,8 +33,11 @@ Git, GitHub, ESlint, Babel, NPM, NodeJS, VS Code/Atom/Brackets, Asciinema, Travi
 
 1. **Omnifood** web-layout. First HTML, CSS, JQuery project.
 [GitHub repository](https://github.com/DzhafarOFF/Omnifood).
-2. **Brain Games**. Simple nodejs game in cli.[GitHub repository](https://github.com/DzhafarOFF/frontend-project-lvl1).
+
+2. **Brain Games.** Simple nodejs game in cli.[GitHub repository](https://github.com/DzhafarOFF/frontend-project-lvl1).
+
 ---
+
 ## Education
 
 1. **Moscow Aviation Institute**, Moscow, Russia.

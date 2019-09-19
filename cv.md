@@ -1,11 +1,11 @@
 # Ruslan Dzhafarov
 
-## Contacts:
+## Contacts
 - **Email**: djafar678@mail.ru
 - **Facebook:** [Ruslan Dzhafarov](https://www.facebook.com/ruslan.dzhafarov.714)
 - **GitHub:** [DzhafarOFF](https://github.com/DzhafarOFF)
 
-## Summary:
+## Summary
 I am novice frontend-developer with technical education. I have confident knowledge of HTML, CSS(Less, Scss), JavaScript.
 
 ## Skills
@@ -14,7 +14,7 @@ I am novice frontend-developer with technical education. I have confident knowle
 
 1. HTML(Semantic, BEM methodology)
 2. CSS/Less/SCSS, Flexbox, CSS Grid, responsive markup
-3. JavaScript
+3. JavaScript(ES5, ES6+)
 
 **Libraries:**
 
@@ -24,7 +24,7 @@ I am novice frontend-developer with technical education. I have confident knowle
 
 **Others:**
 
-Git, GitHub, ESlint, Babel, NPM, NodeJS, VS Code/Atom/Brackets, Asciinema, Travis CI, Code Climate, Trello.
+Jekyll, Git, GitHub, ESlint, Babel, NPM, NodeJS, VS Code/Atom/Brackets, Gulp,  Asciinema, Travis CI, Code Climate, Trello.
 
 ## Projects
 
@@ -41,6 +41,6 @@ Specialist(Engineer and economist).
 
 2. Online courses on platform **Codecademy**([My profile](https://www.codecademy.com/profiles/RuslanDzhafarov)), **Hexlet**([My profile and activity](https://ru.hexlet.io/u/djafar)), **Udemy**([My profile](https://www.udemy.com/user/ruslan-dzhafarov/)).
 
-## English:
+## English
 
 Pre-Intermediate(A2).

@@ -1,0 +1,26 @@
+html {
+  font-family: 'Lato', 'Arial', sans-serif;
+}
+
+body{
+  margin: 0;
+}
+
+h1{
+  margin-top: 0;
+}
+
+.wrapper {
+  max-width: 1024px;
+  margin: 0 auto;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.photo {
+  margin: 0;
+  padding: 0;
+  border-radius: 3%;
+}
